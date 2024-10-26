@@ -19,3 +19,4 @@ The Primary source of this data is the LITA Capstone dataset.csv text as provide
 -------
 
 #### Explanatory Data Analysis
+EDA involves data that will answer questions to the report such as:
