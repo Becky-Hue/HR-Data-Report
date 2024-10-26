@@ -31,3 +31,5 @@ EDA involves data that will provide answers to questions in the report such as:
 From the dataset viewed, it is discovered that LITA Tech company has an attrition count of 237 which is 16% of the company's total employee. Upon further research, we realise that the male counterparts constribute more to the attrition rate the company is currently experiencing, rating 63.29% while the females have an attrition rate of 36.71%.
 
 <img width="136" alt="github1" src="https://github.com/user-attachments/assets/64554934-ddd5-4851-90c7-fcf56579e38e">
+
+
