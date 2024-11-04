@@ -6,12 +6,12 @@
 --------
 
 TABLE OF CONTENTS
-[DATA SOURCES](data_sources)
-[TOOLS USED](tools used)
-[EXPLANATORY DATA ANALYSIS](explanatory_data_analysis)
-[ANALYSIS](analysis)
-[OBSERVATION](observation)
-[POSSIBLE SOLUTIONS](possible_solutions) 
+- [DATA SOURCES](data_sources)
+- [TOOLS USED](tools_used)
+- [EXPLANATORY DATA ANALYSIS](explanatory_data_analysis)
+- [ANALYSIS](analysis)
+- [OBSERVATION](observation)
+- [POSSIBLE SOLUTIONS](possible_solutions) 
 ------
 
 #### DATA SOURCES
@@ -81,25 +81,27 @@ These male employees within the  age range of 25-34 have the highest attrition c
 8. Consider leadership development programs.
 9. Developing retention strategies such as:
     
-  . Exit Interview Analysis: Conduct in-depth interviews with departing employees to identify key reasons for leaving'
-  . Compensation Review: Assess and adjust compensation packages to ensure competitiveness.
-  . Benefits Enhancement: Improve benefits, such as flexible work arrangements, wellness programs, or mental health support.
-  . Recognition and Rewards: Establish a recognition program for outstanding performance and milestone achievements.
-  . Work-Life Balance Initiatives: Encourage flexible scheduling, telecommuting, or compressed workweeks.
-  . Stay Interviews: Conduct regular stay interviews to understand reasons for staying and areas for improvement.
+-  Exit Interview Analysis: Conduct in-depth interviews with departing employees to identify key reasons for leaving
+-  Compensation Review: Assess and adjust compensation packages to ensure competitiveness.
+-  Benefits Enhancement: Improve benefits, such as flexible work arrangements, wellness programs, or mental health support. - 
+-  Recognition and Rewards: Establish a recognition program for outstanding performance and milestone achievements.
+-  Work-Life Balance Initiatives: Encourage flexible scheduling, telecommuting, or compressed workweeks.
+-  Stay Interviews: Conduct regular stay interviews to understand reasons for staying and areas for improvement.
 
-   #### Metrics and Monitoring 
+   ####    Metrics and Monitoring 
 
 1. Track attrition rates and analyze trends.
 2. Monitor employee satisfaction and engagement surveys.
 3. Measure training effectiveness and career advancement.
 4. Conduct regular pulse checks and feedback sessions.
 
-   #### Accountability 
+   ####     Accountability
+   
 1. Assign ownership to department heads and managers.
 2. Establish a retention committee.
 3. Set clear goals, objectives, and key results (OKRs).
 4. Regularly review and adjust the retention strategy.
+5.  Motivation could be in form praise,cash gifts and award
 -----------------
 
 
