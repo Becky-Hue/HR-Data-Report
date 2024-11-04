@@ -35,5 +35,7 @@ From the dataset viewed, it is discovered that LITA Tech company has an attritio
 
 -<img width="185" alt="Github 2" src="https://github.com/user-attachments/assets/9aba2714-623d-4b5b-8d98-ba2e2e56720a">
 
+These male employees within the  age range of 25-34 have the highest attrition count of 69 (61.61%)
 
+-<img width="334" alt="github 3" src="https://github.com/user-attachments/assets/5221de7d-67df-4453-9662-1f95fa290adb">
 
