@@ -5,20 +5,26 @@
 ## Project Overview : This project aims at disintegrating employee data of the LITA Tech Company. Viewing the general relation of employees with their environmental work, employee stability and social balance to understand the attrition rate of the workers and ways to remedy the situation.
 --------
 
-### TABLE OF CONTENTS
+TABLE OF CONTENTS
+[DATA SOURCES](data_sources)
+[TOOLS USED](tools used)
+[EXPLANATORY DATA ANALYSIS](explanatory_data_analysis)
+[ANALYSIS](analysis)
+[OBSERVATION](observation)
+[POSSIBLE SOLUTIONS](possible_solutions) 
 ------
 
-#### Data Sources
+#### DATA SOURCES
 The Primary source of this data is the LITA Capstone dataset.csv text as provided by LITA Tech company HR department.
 -------
 
-#### Tools used
+#### TOOLS USED
 - Microsoft Excel for data cleaning
 - Power BI for analyzing and visualizing data
 - Github to upload profile
 ------
 
-#### Explanatory Data Analysis
+#### EXPLANATORY DATA ANALYSIS
 EDA involves data that will provide answers to questions in the report such as:
  1. Attrition Count and Rate
  2. The gender with the highest attrition Count and Rate
@@ -39,30 +45,32 @@ These male employees within the  age range of 25-34 have the highest attrition c
 
 -<img width="334" alt="github 3" src="https://github.com/user-attachments/assets/5221de7d-67df-4453-9662-1f95fa290adb">
 
-## Based on the provided data, some potential reasons for the employee loss are:##
- # On Demographics:#
+### Based on the provided data, some potential reasons for the employee loss are:
+ #### On Demographics:
 1. Gender: Males contribute more to attrition (63.29%), indicating possible issues with workplace culture, opportunities, or management.
 2. Age: Employees aged 25-34 have the highest attrition count (61.61%), suggesting potential dissatisfaction with career growth, compensation, or work-life balance.
 
-# Departmentally: #
+#### Departmentally: 
  R&D Department has the highest attrition rate (56.12%), indicating possible issues with:
     - Lack of challenging projects
     - Insufficient resources
     - Poor work relation / communication within the department
     - Poor management
 
-# Generally, some possible causes of employment loss are: #
+#### Generally, some possible causes of employment loss are: 
 1. Unclear career paths or progression
 2. Compensation and benefits packages not competitive
 3. Work-life balance issues
 4. Limited recognition or rewards for achievements
 5. Burnout or working over time: According to the data provided, 53.9% of the company's ex-employees worked overtime and 23.44% of the current employees still work overtime.
+------------
 
-   ### OBSERVATION ###
-    LITA Tech company has a high turnover of 16% which indicate an underlying issues, some of which have been stated above. at the same time, there is no clear demographic pattern. This suggests company-wide problems.  
+   ### OBSERVATION
+  LITA Tech company has a high turnover of 16% which indicate an underlying issues, some of which have been stated above. at the same time, there is no clear demographic pattern. This suggests company-wide problems.  
+---------------
 
-## Possible Solutions include: ##
-
+### POSSIBLE SOLUTIONS
+ They include:
 1. Conduct exit interviews to understand specific reasons for departure.
 2. Analyze employee feedback and satisfaction surveys.
 3. Review and adjust compensation and benefits packages.
@@ -72,6 +80,7 @@ These male employees within the  age range of 25-34 have the highest attrition c
 7. Monitor and address work-life balance concerns.
 8. Consider leadership development programs.
 9. Developing retention strategies such as:
+    
   . Exit Interview Analysis: Conduct in-depth interviews with departing employees to identify key reasons for leaving'
   . Compensation Review: Assess and adjust compensation packages to ensure competitiveness.
   . Benefits Enhancement: Improve benefits, such as flexible work arrangements, wellness programs, or mental health support.
@@ -79,18 +88,19 @@ These male employees within the  age range of 25-34 have the highest attrition c
   . Work-Life Balance Initiatives: Encourage flexible scheduling, telecommuting, or compressed workweeks.
   . Stay Interviews: Conduct regular stay interviews to understand reasons for staying and areas for improvement.
 
-   ## Metrics and Monitoring ##
+   #### Metrics and Monitoring 
 
 1. Track attrition rates and analyze trends.
 2. Monitor employee satisfaction and engagement surveys.
 3. Measure training effectiveness and career advancement.
 4. Conduct regular pulse checks and feedback sessions.
 
-   ## Accountability ##
+   #### Accountability 
 1. Assign ownership to department heads and managers.
 2. Establish a retention committee.
 3. Set clear goals, objectives, and key results (OKRs).
 4. Regularly review and adjust the retention strategy.
+-----------------
 
 
-
+                                                                                                 * Thankyou 
