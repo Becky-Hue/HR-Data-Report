@@ -6,12 +6,12 @@
 --------
 
 TABLE OF CONTENTS
-- [DATA SOURCES](data_sources)
-- [TOOLS USED](tools_used)
-- [EXPLANATORY DATA ANALYSIS](explanatory_data_analysis)
-- [ANALYSIS](analysis)
-- [OBSERVATION](observation)
-- [POSSIBLE SOLUTIONS](possible_solutions) 
+- [DATA SOURCES](#data-sources)
+- [TOOLS USED](#tools-used)
+- [EXPLANATORY DATA ANALYSIS](#explanatory-data_analysis)
+- [ANALYSIS](#analysis)
+- [OBSERVATION](#observation)
+- [POSSIBLE SOLUTIONS](#possible-solutions) 
 ------
 
 #### DATA SOURCES
